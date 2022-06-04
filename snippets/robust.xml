@@ -32,5 +32,6 @@
 
   <!-- Vendor -->
   <project path="vendor/robust" name="platform_vendor_robust" remote="robust" />
+  <project path="vendor/robust-prebuilts" name="platform_vendor_robust-prebuilts" remote="robust" />
 
 </manifest>
