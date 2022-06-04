@@ -6,6 +6,7 @@
            fetch="https://github.com/ProjectRobust" />
 
   <!-- Build -->
+  <project path="bionic" name="platform_bionic" remote="robust" />
   <project path="build/make" name="platform_build" remote="robust">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
