@@ -27,6 +27,9 @@
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="robust" />
 
+  <!-- System -->
+  <project path="system/core" name="platform_system_core" remote="robust" />
+
   <!-- Vendor -->
   <project path="vendor/robust" name="platform_vendor_robust" remote="robust" />
 
