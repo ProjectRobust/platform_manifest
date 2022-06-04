@@ -8,4 +8,7 @@
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="robust" />
 
+  <!-- Vendor -->
+  <project path="vendor/robust" name="platform_vendor_robust" remote="robust" />
+
 </manifest>
